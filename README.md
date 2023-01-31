@@ -130,7 +130,7 @@
 
     *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao* [[pdf](https://arxiv.org/abs/2212.09561)] [[code](https://github.com/WENGSYX/Self-Verification)] 2022.12
 
-33. **Language models are greedy reasoners: A systematic formal analysis of chain-of-thought** [ICLR2023] 
+33. **Language models are greedy reasoners: A systematic formal analysis of chain-of-thought** *ICLR2023*
 
     *Abulhair Saparov, He He* [[pdf](https://arxiv.org/abs/2210.01240)] [[code](https://github.com/asaparov/prontoqa)] 2022.10
 
