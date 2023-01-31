@@ -130,7 +130,13 @@
 
     *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao* [[pdf](https://arxiv.org/abs/2212.09561)] [[code](https://github.com/WENGSYX/Self-Verification)] 2022.12
 
+33. **Language models are greedy reasoners: A systematic formal analysis of chain-of-thought** [ICLR2023] 
 
+    *Abulhair Saparov, He He* [[pdf](https://arxiv.org/abs/2210.01240)] [[code](https://github.com/asaparov/prontoqa)] 2022.10
+
+34. **Specializing Smaller Language Models towards Multi-Step Reasoning**
+
+    *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot* [[pdf](https://arxiv.org/abs/2301.12726)] 2023.1
 ## Code LLMs
 1. **Prompt Engineering for Solving CS1 Problems.**
 
@@ -139,6 +145,7 @@
 2. **Language Models of Code are Few-Shot Commonsense Learners**
 
     *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig* [[pdf](https://arxiv.org/abs/2210.07128)]
+
 
 ## Evaluation of LLMs
 1. **Holistic Evaluation of Language Models**
