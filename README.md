@@ -141,6 +141,10 @@
 35. **Is ChatGPT A Good Translator? A Preliminary Study**
 
     *Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu* [[pdf](https://arxiv.org/abs/2301.12726)] 2023.1
+
+36. **Benchmarking Large Language Models for News Summarization**
+
+    *Tianyi Zhang, Faisal Ladhak, Esin Durmus, Percy Liang, Kathleen McKeown, Tatsunori B. Hashimoto* [[pdf](https://export.arxiv.org/pdf/2301.13848)] 2023.1
 ## Code LLMs
 1. **Prompt Engineering for Solving CS1 Problems.**
 
