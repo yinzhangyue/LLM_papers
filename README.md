@@ -137,6 +137,8 @@
 34. **Specializing Smaller Language Models towards Multi-Step Reasoning**
 
     *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot* [[pdf](https://arxiv.org/abs/2301.12726)] 2023.1
+
+
 ## Code LLMs
 1. **Prompt Engineering for Solving CS1 Problems.**
 
@@ -145,6 +147,10 @@
 2. **Language Models of Code are Few-Shot Commonsense Learners**
 
     *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig* [[pdf](https://arxiv.org/abs/2210.07128)]
+
+3. **Parsel: A (De-)compositional Framework for Algorithmic Reasoning with Language Models**
+
+    *Eric Zelikman, Qian Huang, Gabriel Poesia, Noah D. Goodman, Nick Haber* [[pdf](https://arxiv.org/abs/2212.10561)]
 
 
 ## Evaluation of LLMs
