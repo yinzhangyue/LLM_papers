@@ -138,7 +138,9 @@
 
     *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot* [[pdf](https://arxiv.org/abs/2301.12726)] 2023.1
 
+35. **Is ChatGPT A Good Translator? A Preliminary Study**
 
+    *Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu* [[pdf](https://arxiv.org/abs/2301.12726)] 2023.1
 ## Code LLMs
 1. **Prompt Engineering for Solving CS1 Problems.**
 
@@ -150,7 +152,7 @@
 
 3. **Parsel: A (De-)compositional Framework for Algorithmic Reasoning with Language Models**
 
-    *Eric Zelikman, Qian Huang, Gabriel Poesia, Noah D. Goodman, Nick Haber* [[pdf](https://arxiv.org/abs/2212.10561)]
+    *Eric Zelikman, Qian Huang, Gabriel Poesia, Noah D. Goodman, Nick Haber* [[pdf](https://export.arxiv.org/pdf/2301.08745)] [[code](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)] 2023.1
 
 
 ## Evaluation of LLMs
