@@ -145,6 +145,13 @@
 36. **Benchmarking Large Language Models for News Summarization**
 
     *Tianyi Zhang, Faisal Ladhak, Esin Durmus, Percy Liang, Kathleen McKeown, Tatsunori B. Hashimoto* [[pdf](https://export.arxiv.org/pdf/2301.13848)] 2023.1
+
+37. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
+    *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* [[pdf](https://arxiv.org/abs/2302.00093)] 2023.2
+
+38. **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for  Large Language Models**
+    *Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen* [[pdf](https://arxiv.org/abs/2302.00618)] 2023.2
+
 ## Code LLMs
 1. **Prompt Engineering for Solving CS1 Problems.**
 
