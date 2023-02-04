@@ -160,7 +160,9 @@
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola* [[pdf](https://arxiv.org/abs/2302.00923)] [[code](https://github.com/amazon-science/mm-cot)] 2023.02
 
+41. **Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**
 
+    *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei* [[pdf](https://arxiv.org/pdf/2212.10559.pdf)] [[code](https://github.com/microsoft/LMOps)] 2022.12
 
 ## Code LLMs
 1. **Prompt Engineering for Solving CS1 Problems.**
