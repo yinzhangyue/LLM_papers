@@ -164,6 +164,9 @@
 
     *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei* [[pdf](https://arxiv.org/pdf/2212.10559.pdf)] [[code](https://github.com/microsoft/LMOps)] 2022.12
 
+42. **MetaPrompting: Learning to Learn Better Prompts**
+
+    *Yutai Hou, Hongyuan Dong, Xinghao Wang, Bohan Li, Wanxiang Che,* [[pdf](https://arxiv.org/pdf/2209.11486.pdf)] [[code](https://github.com/Dousia/MetaPrompting)] 2023.2
 ## Code LLMs
 1. **Prompt Engineering for Solving CS1 Problems.**
 
