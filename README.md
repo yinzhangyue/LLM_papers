@@ -167,6 +167,9 @@
 42. **MetaPrompting: Learning to Learn Better Prompts**
 
     *Yutai Hou, Hongyuan Dong, Xinghao Wang, Bohan Li, Wanxiang Che,* [[pdf](https://arxiv.org/pdf/2209.11486.pdf)] [[code](https://github.com/Dousia/MetaPrompting)] 2023.2
+
+43. 
+
 ## Code LLMs
 1. **Prompt Engineering for Solving CS1 Problems.**
 
@@ -190,3 +193,5 @@
 
     *Mina Lee, Megha Srivastava, Amelia Hardy, John Thickstun, Esin Durmus, Ashwin Paranjape, Ines Gerard-Ursin, Xiang Lisa Li, Faisal Ladhak, Frieda Rong, Rose E. Wang, Minae Kwon, Joon Sung Park, Hancheng Cao, Tony Lee, Rishi Bommasani, Michael Bernstein, Percy Liang* [[pdf](https://arxiv.org/abs/2212.09746)] [[code](https://github.com/minggg/halie)] 2022.12
 
+3. **Theory of Mind May Have Spontaneously Emerged in Large Language Models**
+    *Michal Kosinski* 2023.2
