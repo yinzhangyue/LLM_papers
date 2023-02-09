@@ -168,9 +168,14 @@
 
     *Yutai Hou, Hongyuan Dong, Xinghao Wang, Bohan Li, Wanxiang Che,* [[pdf](https://arxiv.org/pdf/2209.11486.pdf)] [[code](https://github.com/Dousia/MetaPrompting)] 2023.2
 
-43. Languages are Rewards: Hindsight Finetuning using Human Feedback
+43. **Languages are Rewards: Hindsight Finetuning using Human Feedback**
 
     *Hao Liu, Carmelo Sferrazza, Pieter Abbeel* [[pdf](https://arxiv.org/pdf/2302.02676.pdf)] 2023.2
+
+44. **Rethinking with Retrieval: Faithful Large Language Model Inference**
+
+    *Hangfeng He, Hongming Zhang, Dan Roth* [[pdf](https://arxiv.org/pdf/2301.00303.pdf)] [[code]( https://github.com/HornHehhf/RR)] 2022.12
+
 
 ## Code LLMs
 1. **Prompt Engineering for Solving CS1 Problems.**
@@ -198,3 +203,5 @@
 3. **Theory of Mind May Have Spontaneously Emerged in Large Language Models**
     *Michal Kosinski* [[pdf](https://arxiv.org/ftp/arxiv/papers/2302/2302.02083.pdf)] 2023.2
 
+4. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**
+   *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung* [[pdf](https://arxiv.org/pdf/2302.04023.pdf)] 2023.2
