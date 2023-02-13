@@ -179,7 +179,22 @@
 45. **A Survey on In-context Learning**
     *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui* [[pdf](https://export.arxiv.org/pdf/2301.00234)] 2023.1
 
+46. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.**
 
+    *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun* [[pdf](https://arxiv.org/abs/2212.10001)] [[code](https://github.com/sunlab-osu/Understanding-CoT)] 2022.12
+
+47. **Large Language Models Are Reasoning Teachers.**
+
+    *Namgyu Ho, Laura Schmid, Se-Young Yun* [[pdf](https://arxiv.org/abs/2212.10071)] 2022.12
+
+48. **Translating Natural Language to Planning Goals with Large-Language  Models.**
+    *Yaqi Xie, Chen Yu, Tongyao Zhu, Jinbin Bai, Ze Gong, Harold Soh* [[pdf](https://arxiv.org/pdf/2302.05128.pdf)] 2023.2 
+
+49. **The Wisdom of Hindsight Makes Language Models Better Instruction Followers**
+    *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez* [[pdf](https://arxiv.org/pdf/2302.05206.pdf)] 2023.2 
+
+50. **Reliable Natural Language Understanding with Large Language Models and Answer Set Programming**
+    *Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta* [[pdf](https://arxiv.org/pdf/2302.03780.pdf)] 2023.2 
 ## Code LLMs
 1. **Prompt Engineering for Solving CS1 Problems.**
 
