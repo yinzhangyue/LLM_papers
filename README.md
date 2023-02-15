@@ -188,13 +188,20 @@
     *Namgyu Ho, Laura Schmid, Se-Young Yun* [[pdf](https://arxiv.org/abs/2212.10071)] 2022.12
 
 48. **Translating Natural Language to Planning Goals with Large-Language  Models.**
+    
     *Yaqi Xie, Chen Yu, Tongyao Zhu, Jinbin Bai, Ze Gong, Harold Soh* [[pdf](https://arxiv.org/pdf/2302.05128.pdf)] 2023.2 
 
 49. **The Wisdom of Hindsight Makes Language Models Better Instruction Followers**
+    
     *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez* [[pdf](https://arxiv.org/pdf/2302.05206.pdf)] 2023.2 
 
 50. **Reliable Natural Language Understanding with Large Language Models and Answer Set Programming**
+    
     *Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta* [[pdf](https://arxiv.org/pdf/2302.03780.pdf)] 2023.2 
+
+51. **DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature**
+
+    *Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher D. Manning, Chelsea Finn* [[pdf](https://arxiv.org/pdf/2301.11305.pdf)] [[code]([[code](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)])]2023.2
 ## Code LLMs
 1. **Prompt Engineering for Solving CS1 Problems.**
 
