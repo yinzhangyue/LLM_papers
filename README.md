@@ -202,6 +202,17 @@
 51. **DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature**
 
     *Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher D. Manning, Chelsea Finn* [[pdf](https://arxiv.org/pdf/2301.11305.pdf)] [[code]([[code](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)])]2023.2
+
+
+52. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
+
+    *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* [[pdf](https://arxiv.org/abs/2302.00093)] 2023.02
+
+53. **Active Prompting with Chain-of-Thought for Large Language Models**
+
+    *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* [[pdf](https://arxiv.org/abs/2302.12246)] 2023.02
+
+
 ## Code LLMs
 1. **Prompt Engineering for Solving CS1 Problems.**
 
