@@ -4,7 +4,7 @@
 1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** 
 
    *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, Denny Zhou*  [[pdf](https://arxiv.org/abs/2201.11903)] 2022.01
- 
+
 2. **Self-Consistency Improves Chain of Thought Reasoning in Language Models.**  
 
    *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou*  [[pdf](https://arxiv.org/abs/2203.11171)] 2022.03
@@ -12,7 +12,7 @@
 3. **STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning.** 
 
    *Eric Zelikman, Yuhuai Wu, Noah D. Goodman*  [[pdf](https://arxiv.org/abs/2203.14465)] 2022.03
- 
+
 4. **PaLM: Scaling Language Modeling with Pathways.** 
 
    *Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung, Charles Sutton, Sebastian Gehrmann, Parker Schuh, Kensen Shi, Sasha Tsvyashchenko, Joshua Maynez, Abhishek Rao, Parker Barnes, Yi Tay, Noam Shazeer, Vinodkumar Prabhakaran, Emily Reif, Nan Du, Ben Hutchinson, Reiner Pope, James Bradbury, Jacob Austin, Michael Isard, Guy Gur-Ari, Pengcheng Yin, Toju Duke, Anselm Levskaya, Sanjay Ghemawat, Sunipa Dev, Henryk Michalewski, Xavier Garcia, Vedant Misra, Kevin Robinson, Liam Fedus, Denny Zhou, Daphne Ippolito, David Luan, Hyeontaek Lim, Barret Zoph, Alexander Spiridonov, Ryan Sepassi, David Dohan, Shivani Agrawal, Mark Omernick, Andrew M. Dai, Thanumalayan Sankaranarayana Pillai, Marie Pellat, Aitor Lewkowycz, Erica Moreira, Rewon Child, Oleksandr Polozov, Katherine Lee, Zongwei Zhou, Xuezhi Wang, Brennan Saeta, Mark Diaz, Orhan Firat, Michele Catasta, Jason Wei, Kathy Meier-Hellstern, Douglas Eck, Jeff Dean, Slav Petrov, Noah Fiedel*  [[pdf](https://arxiv.org/abs/2204.02311)] 2022.04   
@@ -24,7 +24,7 @@
 6. **Inferring Implicit Relations with Language Models.** 
 
    *Uri Katz, Mor Geva, Jonathan Berant*  [[pdf](https://arxiv.org/abs/2204.13778)] 2022.04   
- 
+
 7. **The Unreliability of Explanations in Few-Shot In-Context Learning.**
   
    *Xi Ye, Greg Durrett* [[pdf](https://arxiv.org/abs/2205.03401)] 2022.05
@@ -203,14 +203,17 @@
 
     *Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher D. Manning, Chelsea Finn* [[pdf](https://arxiv.org/pdf/2301.11305.pdf)] [[code]([[code](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)])]2023.2
 
+52. **Active Prompting with Chain-of-Thought for Large Language Models**
 
-52. **Large Language Models Can Be Easily Distracted by Irrelevant Context**
+    *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* [[pdf](https://arxiv.org/pdf/2302.12246.pdf)] 2023.02
 
-    *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* [[pdf](https://arxiv.org/abs/2302.00093)] 2023.02
+53. **A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**
 
-53. **Active Prompting with Chain-of-Thought for Large Language Models**
+    *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith, Douglas C. Schmidt* [[pdf](https://arxiv.org/pdf/2302.11382.pdf)] 2023.02
 
-    *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang* [[pdf](https://arxiv.org/abs/2302.12246)] 2023.02
+54. **MathPrompter: Mathematical Reasoning using Large Language Models**
+
+    *Shima Imani, Liang Du, Harsh Shrivastava* [[pdf](https://arxiv.org/pdf/2303.05398.pdf)] 2023.03
 
 
 ## Code LLMs
@@ -241,3 +244,6 @@
 
 4. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**
    *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung* [[pdf](https://arxiv.org/pdf/2302.04023.pdf)] 2023.2
+
+5. **Enabling Conversational Interaction with Mobile UI using Large Language Models**
+    *Bryan Wang, Gang Li, Yang Li* [[pdf](https://arxiv.org/pdf/2209.08655.pdf)] [[code](https://github.com/google-research/google-research/tree/master/llm4mobile)] 2023.2
