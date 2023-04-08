@@ -140,7 +140,7 @@
 
 35. **Is ChatGPT A Good Translator? A Preliminary Study**
 
-    *Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu* [[pdf](https://arxiv.org/abs/2301.12726)] 2023.01
+    *Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu* [[pdf](https://arxiv.org/abs/2301.12726)] [[code]([[code](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)])] 2023.01
 
 36. **Benchmarking Large Language Models for News Summarization**
 
@@ -201,7 +201,7 @@
 
 51. **DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature**
 
-    *Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher D. Manning, Chelsea Finn* [[pdf](https://arxiv.org/pdf/2301.11305.pdf)] [[code]([[code](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)])]2023.2
+    *Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher D. Manning, Chelsea Finn* [[pdf](https://arxiv.org/pdf/2301.11305.pdf)] 2023.2
 
 52. **Active Prompting with Chain-of-Thought for Large Language Models**
 
@@ -215,7 +215,16 @@
 
     *Shima Imani, Liang Du, Harsh Shrivastava* [[pdf](https://arxiv.org/pdf/2303.05398.pdf)] 2023.03
 
+55. **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**
 
+    *Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang* [[pdf](https://arxiv.org/pdf/2303.11381.pdf)] [[code]([[code](https://github.com/microsoft/MM-REACT)])] 2023.03
+
+56. **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**
+    *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan* [[pdf](https://arxiv.org/pdf/2303.04671.pdf)] [[code]([[code](https://github.com/microsoft/visual-chatgpt)])] 2023.03
+
+57. **Reflexion: an autonomous agent with dynamic memory and self-reflection**
+    *Noah Shinn, Beck Labash, Ashwin Gopinath* [[pdf](https://arxiv.org/pdf/2303.11366.pdf)] [[code]([[code]([[code]([[code](https://arxiv.org/pdf/2303.04671.pdf)])] 2023.03)])] 2023.03
+    
 ## Code LLMs
 1. **Prompt Engineering for Solving CS1 Problems.**
 
@@ -227,7 +236,7 @@
 
 3. **Parsel: A (De-)compositional Framework for Algorithmic Reasoning with Language Models**
 
-    *Eric Zelikman, Qian Huang, Gabriel Poesia, Noah D. Goodman, Nick Haber* [[pdf](https://export.arxiv.org/pdf/2301.08745)] [[code](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)] 2023.1
+    *Eric Zelikman, Qian Huang, Gabriel Poesia, Noah D. Goodman, Nick Haber* [[pdf](https://export.arxiv.org/pdf/2301.08745)] 2023.1
 
 
 ## Evaluation of LLMs
